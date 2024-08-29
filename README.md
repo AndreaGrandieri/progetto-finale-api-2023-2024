@@ -4,7 +4,7 @@ PROVA FINALE (PROGETTO DI ALGORITMI E STRUTTURE DATI) [2023-24] al Politecnico d
 
 ## Voto
 
-Il progetto ha ricevuto valutazione 30L per le performance di tempo e spazio.
+Il progetto ha ricevuto valutazione __30L__ per le performance di tempo e spazio.
 
 ## Performance
 
